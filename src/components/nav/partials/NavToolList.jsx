@@ -17,7 +17,7 @@ function NavToolList({ expanded }) {
     const data = useData()
 
     const profile = data.getProfile()
-    const maxWidgets = expanded ? 4 : 2
+    const maxWidgets = expanded ? 4 : 3
 
     const shrinkClass = expanded ?
         `` :

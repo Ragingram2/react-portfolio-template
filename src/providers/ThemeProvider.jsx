@@ -23,7 +23,7 @@ function ThemeProvider({ children, supportedThemes, defaultThemeId, showSpinnerO
     const [spinnerActivities, setSpinnerActivities] = useState([])
     const [selectedThemeId, setSelectedThemeId] = useState(null)
 
-    /** @constructs **/
+    /** @constructs */
     useEffect(() => {
         if(allThemes.length === 0) {
             utils.log.throwError("ThemeProvider", "The app must support at least one theme. Make sure you filled the supportedThemes property in the settings.json file.")

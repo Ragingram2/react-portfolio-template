@@ -7,23 +7,11 @@
                 "title_long_prefix": "Here are my",
                 "title_long": "Career {{Achievements}}"
             },
-            "es": {
-                "title_short": "Logros",
-                "title_short_nav": "Logros",
-                "title_long_prefix": "Aquí están mis",
-                "title_long": "{{Logros}} Profesionales"
-            },
-            "fr": {
-                "title_short": "Réalis",
-                "title_short_nav": "Réalisations",
-                "title_long_prefix": "Voici",
-                "title_long": "Mes {{Réalisations}}"
-            },
-            "ko": {
-                "title_short": "경력 성과",
-                "title_short_nav": "경력 성과",
-                "title_long_prefix": "다음은",
-                "title_long": "{{경력 성과}}입니다"
+            "nl": {
+                "title_short": "Awards",
+                "title_short_nav": "Achievements",
+                "title_long_prefix": "Here are my",
+                "title_long": "Career {{Achievements}}"
             }
         }
     },
@@ -55,14 +43,9 @@
                             "title": "The {{Linux Foundation}}",
                             "text": "Certified Kubernetes Administrator (CKA)"
                         },
-                        "es": {
-                            "text": "Administrador de Kubernetes Certificado (CKA)"
-                        },
-                        "fr": {
-                            "text": "Administrateur Kubernetes Certifié (CKA)"
-                        },
-                        "ko": {
-                            "text": "Kubernetes 인증 관리자 (CKA)"
+                         "nl": {
+                            "title": "The {{Linux Foundation}}",
+                            "text": "Certified Kubernetes Administrator (CKA)"
                         }
                     }
                 },
